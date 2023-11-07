@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ScooterRental/1.0.0": {
+        "dependencies": {
+          "classes": "1.0.0"
+        },
+        "runtime": {
+          "ScooterRental.dll": {}
+        }
+      },
+      "classes/1.0.0": {
+        "runtime": {
+          "classes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ScooterRental/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "classes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

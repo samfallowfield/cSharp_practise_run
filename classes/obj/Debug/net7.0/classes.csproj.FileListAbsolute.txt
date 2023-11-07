@@ -1,0 +1,12 @@
+/Users/sam.fallowfield/Documents/c-sharp/scooters_prac/classes/bin/Debug/net7.0/classes.deps.json
+/Users/sam.fallowfield/Documents/c-sharp/scooters_prac/classes/bin/Debug/net7.0/classes.dll
+/Users/sam.fallowfield/Documents/c-sharp/scooters_prac/classes/bin/Debug/net7.0/classes.pdb
+/Users/sam.fallowfield/Documents/c-sharp/scooters_prac/classes/obj/Debug/net7.0/classes.csproj.AssemblyReference.cache
+/Users/sam.fallowfield/Documents/c-sharp/scooters_prac/classes/obj/Debug/net7.0/classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sam.fallowfield/Documents/c-sharp/scooters_prac/classes/obj/Debug/net7.0/classes.AssemblyInfoInputs.cache
+/Users/sam.fallowfield/Documents/c-sharp/scooters_prac/classes/obj/Debug/net7.0/classes.AssemblyInfo.cs
+/Users/sam.fallowfield/Documents/c-sharp/scooters_prac/classes/obj/Debug/net7.0/classes.csproj.CoreCompileInputs.cache
+/Users/sam.fallowfield/Documents/c-sharp/scooters_prac/classes/obj/Debug/net7.0/classes.dll
+/Users/sam.fallowfield/Documents/c-sharp/scooters_prac/classes/obj/Debug/net7.0/refint/classes.dll
+/Users/sam.fallowfield/Documents/c-sharp/scooters_prac/classes/obj/Debug/net7.0/classes.pdb
+/Users/sam.fallowfield/Documents/c-sharp/scooters_prac/classes/obj/Debug/net7.0/ref/classes.dll

@@ -1,0 +1,13 @@
+
+Sadiq's scooters
+
+an application for someone to rent a scooter.
+
+must have a driving licence and be of age.
+
+must pay (calculate cost)
+
+return dates.
+
+customer info 
+
